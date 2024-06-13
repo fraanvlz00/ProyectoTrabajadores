@@ -1,0 +1,21 @@
+{
+  "trabajador" : [ {
+    "nombre" : "fran",
+    "apellido" : "val",
+    "rut" : "12584",
+    "isapre" : {
+      "nombre" : "Isapre1",
+      "plan" : "PlanA"
+    },
+    "afp" : {
+      "nombre" : "AFP1",
+      "tipo" : "TipoA"
+    }
+  }, {
+    "nombre" : "pepita",
+    "apellido" : "val",
+    "rut" : "12345",
+    "isapre" : { },
+    "afp" : { }
+  } ]
+}
